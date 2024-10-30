@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Jericho Julius C. Maramag </h1>
-About Me!
+<H4> About Me! </H4>
 I'm 20 Years Old, Living in San Mateo, Rizal 
 
 <h2> Education </h2>
