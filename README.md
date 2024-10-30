@@ -1,15 +1,7 @@
 <h1>👋 Hi, I’m Jericho Julius C. Maramag </h1>
 
-- 👀 I’m interested in ...
-<h3> <b> Education </b> </h3>
-New Era University
-Bachelor of Science in Information Technology
-- 🌱 I’m currently learning SQL Database and Java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2> Education </h2>
+<h3> New Era university </h3>
+<h4> 2nd Year BSIT </h4>
+<br> <a href="https://courses.cognitiveclass.ai/certificates/e5aa1d6df1c74f00aced19236e58ee85#"> SQL and Relational Databases </a> </br>
 
-
-<!---
-jjmaramag/jjmaramag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
