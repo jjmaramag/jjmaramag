@@ -3,7 +3,7 @@
 I'm 20 Years Old, Living in San Mateo, Rizal 
 
 <h2> Education </h2>
-New Era university 
+New Era University 
 <br>Bachelor Science in Information Technology</br> 
 2023 - Present
 
