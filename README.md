@@ -12,4 +12,4 @@ Bachelor Science in Information Technology
 
 <h3> SOCIAL MEADIA </h3>
 Email: jerichojulius.maramag@neu.edu.ph
-Facebook: Jericho Maramag
+<BR> Facebook: Jericho Maramag</BR>
