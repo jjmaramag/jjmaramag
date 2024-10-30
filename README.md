@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Jericho Julius C. Maramag
+<h1>👋 Hi, I’m Jericho Julius C. Maramag </h1>
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning SQL Database and Java 
 - 💞️ I’m looking to collaborate on ...
