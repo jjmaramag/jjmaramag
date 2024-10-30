@@ -8,7 +8,7 @@ Bachelor Science in Information Technology
 2023 - Present
 
 <h2> Certifications </h2>
-<br> <a href="https://courses.cognitiveclass.ai/certificates/e5aa1d6df1c74f00aced19236e58ee85#"> SQL and Relational Databases </a> </br>
+ <a href="https://courses.cognitiveclass.ai/certificates/e5aa1d6df1c74f00aced19236e58ee85#"> SQL and Relational Databases </a> 
 
 <h3> SOCIAL MEADIA </h3>
 Email: jerichojulius.maramag@neu.edu.ph
