@@ -10,5 +10,6 @@ New Era University
 <h2> Certifications </h2>
  <a href="https://courses.cognitiveclass.ai/certificates/e5aa1d6df1c74f00aced19236e58ee85#"> SQL and Relational Databases </a> 
  
+ <h2> SOCIAL MEDIA </h2>
 Email: jerichojulius.maramag@neu.edu.ph
 <BR> Facebook: Jericho Maramag</BR>
