@@ -11,7 +11,8 @@ New Era University
  <a href="https://courses.cognitiveclass.ai/certificates/e5aa1d6df1c74f00aced19236e58ee85#"> SQL and Relational Databases </a> <br>
  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D7E1EA1E134CFCD3203D112CBC635FF26DB3107BE295399C72601A9DAFE4A154"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a> <br>
  </br.>
- 
+ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9E268D55D69A1A99A49D58EE79BDE7DAD52FE135DFB9185D6BB2EE650F20D034"> Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a> <br>
+ </br.>
  <h2> SOCIAL MEDIA </h2>
 Email: jerichojulius.maramag@neu.edu.ph
 <BR> Facebook: Jericho Maramag</BR>
